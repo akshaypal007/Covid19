@@ -1,0 +1,150 @@
+.navbar-default{
+    background-color: lightblue;
+    border-radius: 0px;
+}
+
+#logo{
+    height: 50px;
+    width: 70px;
+    padding-left: 20px;
+}
+
+#button{
+    margin-top: 30px;
+    border: 2px solid black;
+}
+
+.nav{
+    padding-right: 20px;
+}
+
+.navbar-nav > li > a{
+    padding-top: 35px;
+    padding-right: 45px;
+    font-weight: bold;
+    font-size: 18px;
+    color: darkgreen;
+    font-family: 'Shadows Into Light';
+}
+
+#top{
+    padding-top: 80px;
+}
+
+#gif1{
+    height: 300px;
+    width: 250px;
+}
+
+#safe{
+    font-size: 20px;
+    font-family: 'Knewave';
+    font-weight: bold;
+}
+
+#gif2{
+    height: 350px;
+    width: 300px;
+    float: right; 
+}
+
+#globalupdate{
+    font-family: 'Knewave'; 
+}
+
+.global{
+    font-family: 'Shadows Into Light';
+    font-weight: bold; 
+}
+
+.globalbtn{
+    font-size: 20px;
+    font-family: 'Pacifico';
+}
+
+#worldcontainer{
+    background-color: lightcyan;
+    border-radius: 25px;
+}
+
+#world{
+    font-family: 'Knewave'; 
+}
+
+#searchcountry{
+    font-family: 'Shadows Into Light';
+    font-size: 20px;
+    font-weight: bolder; 
+}
+
+.countryfont{
+    font-family: 'Shadows Into Light';
+    font-weight: bold;
+    font-size: 14px;
+    letter-spacing: 2px;
+}
+
+.countryfont1{
+    font-family: 'Pacifico';  
+}
+
+#covid19{
+    font-family: 'Knewave'; 
+}
+
+#coronaleft{
+    width: 300px;
+    height: 250px;
+}
+
+#coronaright{
+    font-family: 'Pacifico';
+    font-size: 18px;
+    text-align: justify;
+    word-spacing: 2px;
+    letter-spacing: 2px;  
+}
+
+#india{
+    font-family: 'Knewave';  
+}
+
+.indiatable{
+    font-family: 'Shadows Into Light';
+    font-weight: bold;
+    font-size: 14px;
+    letter-spacing: 2px; 
+}
+
+.indiadata{
+    font-family: 'Pacifico'; 
+}
+
+#symptoms{
+    font-family: 'Knewave'; 
+}
+
+.symptoms2{
+    height: 100px;
+    width: 100px;
+    margin-left: 120px;
+    margin-top: 80px;
+}
+
+.symptoms3{
+    margin-top: 20px;
+    font-family: 'Pacifico';
+}
+
+#prevention{
+    font-family: 'Knewave';
+}
+
+#preventioncontainer{
+    background-color: lightgoldenrodyellow;
+    border-radius: 25px;
+}
+
+.row7{
+    background-color: rgb(46, 30, 30);
+}
